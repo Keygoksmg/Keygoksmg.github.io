@@ -6,7 +6,7 @@ theme = 'digitalgarden'
 # baseURL = "https://"
 relativeURLs = "True"
 
-canonifyurls = true
+# canonifyurls = true
 
 [menu]
 [[menu.main]]
