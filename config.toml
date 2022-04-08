@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'digitalgarden'
 
+canonifyurls = true
+
 [menu]
 [[menu.main]]
   name = 'Home'
