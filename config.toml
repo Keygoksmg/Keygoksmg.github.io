@@ -4,9 +4,9 @@ title = 'My New Hugo Site'
 theme = 'digitalgarden'
 
 # baseURL = "https://"
-relativeURLs = "True"
+# relativeURLs = "True"
 
-# canonifyurls = true
+canonifyurls = true
 
 [menu]
 [[menu.main]]
