@@ -37,6 +37,7 @@ jobs:
             ${{ runner.os }}-node-
 
       - run: npm ci
+      - run: npm install --save-dev postcss@^8.0.0 && npm install --save-dev postcss@^8.1.0
       - run: npm i -g postcss-cli && npm run build
       # - run: hugo --minify
 
