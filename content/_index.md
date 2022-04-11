@@ -13,6 +13,8 @@ My CV is [available](CV.pdf).
 - Science of Science
 - Graph
 
+I'm keen on understanding complex systems using the tools of network science, statistics, etc. I'm currently working in the field of Science of Science.
+
 ### Experience 
 - **Software engineer** (*2019 - current*)  
     development of [programming site for children](https://www.toy-pro.net/) 
@@ -39,7 +41,7 @@ essential foundation for our future IoT society.
 
 
 ### Skills 
-- Programming
+- Coding
     - python (related to data science & web development like Django)
     - R
     - Neo4J
@@ -47,4 +49,4 @@ essential foundation for our future IoT society.
 - Languages
     - Japanese (native)
     - English (IELTS 6.5)
-    - Spanish (hopefully B1 or B2)
+    - Spanish (conversation level)

@@ -1,11 +1,7 @@
 baseURL = 'https://keygoksmg.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Keigo Kusumegi'
 theme = 'digitalgarden'
-
-# baseURL = "https://"
-# relativeURLs = "True"
-
 canonifyurls = true
 
 [menu]
