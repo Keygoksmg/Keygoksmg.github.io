@@ -47,10 +47,9 @@ essential foundation for our future IoT society.
 
 ### Skills 
 - Coding
-    - python (related to data science & web development like Django)
+    - python (data science & web development like Django/Flask)
     - R
-    - Neo4J
-    - docker
+    - Some DB & tools including SQL, Neo4J, docker, etc.
 - Languages
     - Japanese (native)
     - English (IELTS 6.5)
