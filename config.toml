@@ -24,6 +24,10 @@ canonifyurls = true
   url = 'https://github.com/Keygoksmg'
   weight = 2
 [[menu.social]]
+  name = 'LinkedIn'
+  url = 'https://www.linkedin.com/in/keigo-kusumegi-b6127a205/?locale=en_US'
+  weight = 3
+[[menu.social]]
   name = 'Email'
   url = 'kusukun7@gmail.com'
-  weight = 3
+  weight = 4
