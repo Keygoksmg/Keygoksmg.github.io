@@ -3,9 +3,14 @@ title: Homepage
 ---
 
 # About
+
+<!-- ![Heal01.jpg](Heal01.jpg) -->
+<img src="me.JPG" width="500">
+
 Master student at University of Tsukuba, Japan.  
+I am devoted to the research of network science with [Dr. Yukie Sano](https://zerosano.wordpress.com/).  
 My CV is [available](CV.pdf).   
-**Email** kusukun7@gmail.com
+**Email**: kusukun7@gmail.com
 
 
 ### Reseach Interests 

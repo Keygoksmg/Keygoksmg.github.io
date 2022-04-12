@@ -4,6 +4,10 @@ title = 'Keigo Kusumegi'
 theme = 'digitalgarden'
 canonifyurls = true
 
+[params]
+  profile_img = 'Heal01.jpg'
+  # profile_img = 'Heal01.jpg'
+
 [menu]
 [[menu.main]]
   name = 'Home'
@@ -31,3 +35,11 @@ canonifyurls = true
   name = 'Email'
   url = 'kusukun7@gmail.com'
   weight = 4
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true
