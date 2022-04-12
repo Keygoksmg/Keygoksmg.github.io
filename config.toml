@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Keigo Kusumegi'
 theme = 'digitalgarden'
 canonifyurls = true
+googleAnalytics = "G-5BLWZ3MF9C"
 
 [params]
   profile_img = 'Heal01.jpg'
