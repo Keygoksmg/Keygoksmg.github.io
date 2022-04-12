@@ -5,9 +5,10 @@
   "scripts": {
     "dev:css": "NODE_ENV=development ./node_modules/tailwindcss/lib/cli.js -i ./themes/digitalgarden/assets/css/tailwind.css -o ./static/css/main.css -w",
     "build:css": "NODE_ENV=production ./node_modules/tailwindcss/lib/cli.js -i ./themes/digitalgarden/assets/css/tailwind.css -o ./static/css/main.css",
+    "init:css": "cp -f ./themes/digitalgarden/static/css/main.css ./static/css/main.css",
     "develop": "concurrently  \"npm run dev:css\" \"npm run dev:hugo\"",
-    "dev": "hugo serve",
-    "build": "npm run build:css && hugo --gc"
+    "dev": "npm run init:css && hugo serve",
+    "build": "npm run build:css && hugo --gc && cp ./themes/digitalgarden/static/css/main.css ./public/css/main.css"
   },
   "keywords": [],
   "author": "Varun A P",
