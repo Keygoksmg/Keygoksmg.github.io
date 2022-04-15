@@ -7,7 +7,7 @@ title: Homepage
 <!-- ![Heal01.jpg](Heal01.jpg) -->
 <img src="me.JPG" width="500">
 
-Master student at University of Tsukuba, Japan.  
+Master student at the University of Tsukuba, Japan.  
 I am devoted to the research of network science with [Dr. Yukie Sano](https://zerosano.wordpress.com/).  
 My CV is [available](CV.pdf).   
 **Email**: kusukun7@gmail.com
@@ -25,9 +25,9 @@ I'm keen on understanding complex systems using the tools of network science, st
     development of [programming site for children](https://www.toy-pro.net/) 
 
 - **g-RIPS (Graduate-level Research in Industrial Projects for Students Sendai)** (*June 2021 - August 2021*)  
-International research program hosted by the Tohoku Univ. and UCLA.	
+International research program hosted by the Tohoku Univ. and UCLA. 
 Project theme: Optimization of wireless base station placement as an 
-essential foundation for our future IoT society.
+an essential foundation for our future IoT society.
 
 - **Research internship** (*September 2020 – October 2020*)  
     R&D Summer Internship at Optim.inc
