@@ -52,5 +52,5 @@ an essential foundation for our future IoT society.
     - Some DB & tools including SQL, Neo4J, docker, etc.
 - Languages
     - Japanese (native)
-    - English (IELTS 6.5)
+    - English (proficient)
     - Spanish (conversation level)
