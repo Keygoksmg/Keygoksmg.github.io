@@ -10,7 +10,7 @@ title: Homepage
 Master student at the University of Tsukuba, Japan.  
 I am devoted to the research of network science with [Dr. Yukie Sano](https://zerosano.wordpress.com/).  
 My CV is [available](CV.pdf).   
-**Email**: kusukun7@gmail.com
+**Email**: kusukun7@gmail.com(private), s2120431@s.tsukuba.ac.jp(university)
 
 
 ### Reseach Interests 
@@ -22,7 +22,7 @@ I'm keen on understanding complex systems using the tools of network science, st
 
 ### Experience 
 - **Software engineer** (*2019 - current*)  
-    development of [programming site for children](https://www.toy-pro.net/) 
+    engaged as a part-time job in development of [programming site for children](https://www.toy-pro.net/) 
 
 - **g-RIPS (Graduate-level Research in Industrial Projects for Students Sendai)** (*June 2021 - August 2021*)  
 International research program hosted by the Tohoku Univ. and UCLA. 
@@ -49,7 +49,7 @@ an essential foundation for our future IoT society.
 - Coding
     - python (data science & web development like Django/Flask)
     - R
-    - Some DB & tools including SQL, Neo4J, docker, etc.
+    - Some SQL and NoSQL DB & tools including SQL, Neo4J, docker, etc.
 - Languages
     - Japanese (native)
     - English (proficient)
