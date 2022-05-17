@@ -2,20 +2,19 @@
 title: CV
 ---
 
-I'm a master student at the University of Tsukuba, Japan.  
-I am devoted to the research of network science and Science of Science under the supervision of [Dr Yukie Sano](https://sites.google.com/view/sanolabo-en/home).  
 Full version of my CV is available [:paperclip:](CV.pdf)
 
 ## Education
 - **University of Tsukuba** (Ibaraki, Japan) 	*April 2021 – Current*  
 Master Programs in Policy and Planning Sciences  
+Adviser: [Dr Yukie Sano](https://sites.google.com/view/sanolabo-en/home)  
 Expected graduation dates: 03/2023  
 
 - **University of Tsukuba** (Ibaraki, Japan) 	*April 2017 – March 2021*  
 Bachelor of Science, GPA: 3.47/4.3  
 College of Policy and Planning Sciences  
 Thesis: Academic world from the perspective of acknowledgement networks and reciprocity  
-Adviser: Dr Yukie Sano  
+Adviser: [Dr Yukie Sano](https://sites.google.com/view/sanolabo-en/home)  
 
 - **Universidad de Guadalajara** (Jalisco, Mexico) 	*August 2018 – July 2019*  
 University Centre Of Economic And Administrative Sciences  

@@ -39,7 +39,7 @@ enableEmoji = true
   weight = 3
 [[menu.social]]
   name = 'Email'
-  url = 'kusukun7@gmail.com'
+  url = 'mailto:kusukun7@gmail.com'
   weight = 4
 
 # syntax highlight settings
