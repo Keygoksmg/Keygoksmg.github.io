@@ -4,7 +4,7 @@ title: CV
 
 I'm a master student at the University of Tsukuba, Japan.  
 I am devoted to the research of network science and Science of Science under the supervision of [Dr Yukie Sano](https://sites.google.com/view/sanolabo-en/home).  
-PDF version of my CV is available [:paperclip:](CV.pdf)
+Full version of my CV is available [:paperclip:](CV.pdf)
 
 ## Education
 - **University of Tsukuba** (Ibaraki, Japan) 	*April 2021 – Current*  
