@@ -18,4 +18,4 @@ I earned B.S. in Policy and Planning Science at University of Tsukuba, Japan. Wh
 
 - *2021-11-02* I presented a lightning talk at Complex Networks2021 about the impact of acknowledged scholars on a citation.
 
-- *2021-08-03* I gave a oral presentation at SCIENCE OF INNOVATION AND SUCCESS WORKSHOP as early career talk.
+- *2021-08-03* I gave a oral presentation at [SCIENCE OF INNOVATION AND SUCCESS WORKSHOP](https://sites.google.com/view/innov-success-waseda2021/science-of-innovation-and-success-workshop) as early career talk.
