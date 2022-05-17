@@ -4,6 +4,7 @@ title = 'Keigo Kusumegi'
 theme = 'digitalgarden'
 canonifyurls = true
 googleAnalytics = "G-5BLWZ3MF9C"
+enableEmoji = true
 
 [params]
   profile_img = 'Heal01.jpg'
@@ -15,9 +16,13 @@ googleAnalytics = "G-5BLWZ3MF9C"
   url = '/'
   weight = 1
 [[menu.main]]
+  name = 'CV'
+  url = '/cv'
+  weight = 2
+[[menu.main]]
   name = 'Project'
   url = '/projects'
-  weight = 2
+  weight = 3
 
 
 [[menu.social]]
