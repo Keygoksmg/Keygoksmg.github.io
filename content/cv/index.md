@@ -21,6 +21,10 @@ Adviser: Dr Yukie Sano
 University Centre Of Economic And Administrative Sciences  
 International Student Exchange program  
 
+## Publication
+-　**Kusumegi Keigo**, and Yukie Sano. 2021. “Citations and Gender Diversity in Reciprocal Acknowledgement Networks.” arXiv [physics.soc-Ph]. arXiv. https://arxiv.org/abs/2104.01729
+
+
 ## Experience 
 - **Software engineer** (*2019 - current*)  
     engaged as a part-time job in development of [programming site for children](https://www.toy-pro.net/) 
