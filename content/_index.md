@@ -5,10 +5,10 @@ title: Homepage
 # About
 
 <!-- ![Heal01.jpg](Heal01.jpg) -->
-<img src="me.JPG" width="500">
+<img src="me.JPG" width="700">
 
-Master student at the University of Tsukuba, Japan.  
-I am devoted to the research of network science with [Dr. Yukie Sano](https://zerosano.wordpress.com/).  
+A master student at the University of Tsukuba, Japan.  
+I am devoted to the research of network science with [Dr. Yukie Sano](https://sites.google.com/view/sanolabo-en/home).  
 My CV is [available](CV.pdf).   
 **Email**: kusukun7@gmail.com(private), s2120431@s.tsukuba.ac.jp(university)
 
@@ -19,6 +19,12 @@ My CV is [available](CV.pdf).
 - Graph
 
 I'm keen on understanding complex systems using the tools of network science, statistics, etc. I'm currently working in the field of Science of Science.
+
+### Recent update
+- *2022-04-08* There was the talk on our internship project at SIAM Minisymposium on Graduate Research in Industry and in National
+Laboratory Internships, JMM.
+- *2022-03-02* I was invited to talk on 17th Network Ecology Symposium as the last-year best poster award.
+
 
 ### Experience 
 - **Software engineer** (*2019 - current*)  

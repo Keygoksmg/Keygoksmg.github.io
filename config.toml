@@ -14,10 +14,10 @@ googleAnalytics = "G-5BLWZ3MF9C"
   name = 'Home'
   url = '/'
   weight = 1
-# [[menu.main]]
-#   name = 'Articles'
-#   url = '/articles'
-#   weight = 2
+[[menu.main]]
+  name = 'Project'
+  url = '/projects'
+  weight = 2
 
 
 [[menu.social]]
