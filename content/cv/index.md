@@ -46,15 +46,16 @@ an essential foundation for our future IoT society.
 - **Teaching assistant** 
     - Introduction to Programming (*2021 Fall*)
     - Introduction to Quantitative Economics (*2021 Fall*)
-    - Seminar in Social and Economic: Quantitative Systems Analysis Area (*2021 Spring*）	
+    - Seminar in Social and Economic: Quantitative Systems Analysis Area (*2021 Spring*） 
+        - Reference of python code are [here](https://github.com/Keygoksmg/EconAnalysisPython) (japanese explanation only)
 
 
 ## Skills 
 - Coding
-    - python (data science & web development like Django/Flask)
+    - python (data science & development framework like Django/Flask)
     - R
     - Some SQL and NoSQL DB & tools including SQL, Neo4J, docker, etc.
 - Languages
-    - Japanese (native)
-    - English (proficient)
-    - Spanish (conversation level)
+    - Japanese :jp: (native)
+    - English  :us: (proficient)
+    - Spanish :es: (conversation level)

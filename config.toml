@@ -16,7 +16,7 @@ enableEmoji = true
   url = '/'
   weight = 1
 [[menu.main]]
-  name = 'CV'
+  name = 'Resume/CV'
   url = '/cv'
   weight = 2
 [[menu.main]]
