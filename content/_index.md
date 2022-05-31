@@ -17,7 +17,7 @@ I earned B.S. in Policy and Planning Science at University of Tsukuba, Japan. Wh
 :speech_balloon: I will talk about "Identifying acknowledged scholars in open access journals and their networks" at [NetSci 2022](https://netsci2022.net/).
 
 - *Aug. 1-2, 2022*  
-:speech_balloon: I will talk about acknowledgement and science of science at [SOCIOECONOMIC NETWORKS AND NETWORK SCIENCE WORKSHOP 2022](https://sites.google.com/view/waseda-socioecon-networks-2022/science-of-innovation-and-success-workshop) hosted at Waseda University.
+:speech_balloon: I will talk about acknowledgement and science of science at [SOCIOECONOMIC NETWORKS AND NETWORK SCIENCE WORKSHOP 2022](https://sites.google.com/view/waseda-socioecon-networks-2022/socioeconomic-networks-and-network-science-workshop-2022) hosted at Waseda University.
 
 
 ### Recent news
