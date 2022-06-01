@@ -35,7 +35,7 @@ Our internship project(g-RIPS) achievement were presented at [SIAM Minisymposium
 
 
 <details>
-<summary>... and past events </summary>
+<summary>... and more </summary>
 
 - *Nov. 27, 2021*  
 presented a poster :newspaper: at [IC2S2: 7th International Conference on Computational Social Science](https://ic2s2-2021.ethz.ch/) (online). The topic was "with title "Citation and Gender Diversity in Research Acknowledgement Networks With Reciprocity".
