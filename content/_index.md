@@ -16,6 +16,9 @@ I earned B.S. in Policy and Planning Science at University of Tsukuba, Japan. Wh
 - *Aug. 1-2, 2022*  
 :speech_balloon: I will talk about acknowledgement and science of science at [SOCIOECONOMIC NETWORKS AND NETWORK SCIENCE WORKSHOP 2022](https://sites.google.com/view/waseda-socioecon-networks-2022/socioeconomic-networks-and-network-science-workshop-2022) hosted at Waseda University.
 
+- *Aug. 29-Sep. 2, 2022*  
+I will participate in the workshop: [Reconstructing Network Dynamics from Data: Applications to Neuroscience and Beyond](http://www.ipam.ucla.edu/programs/workshops/reconstructing-network-dynamics-from-data-applications-to-neuroscience-and-beyond/) hosted by IPAM, UCLA
+
 - *Oct. 17-21, 2022*  
 :speech_balloon: My contribution talk at [Conference on COMPELX SYSTEMS 2022](https://www.ccs2022.org/). Also, I have been awarded a student grant:tada:
 
