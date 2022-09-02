@@ -7,22 +7,25 @@ title: Homepage
 <!-- ![Heal01.jpg](Heal01.jpg) -->
 <img src="me.JPG" width="700">
 
-I'm a master student at the University of Tsukuba, Japan. Currently, I am studying under the supervision of [Dr Yukie Sano](https://sites.google.com/view/sanolabo-en/home). at the Department of Systems and Information Engineering. My research interests lie in network science, Science of Science, and computational social science. In recent work, I've been building and analysing scholarly communication in view of the acknowledgement statement in academic articles. 
+I'm a master student at the University of Tsukuba, Japan. Currently, I am studying with [Dr Yukie Sano](https://sites.google.com/view/sanolabo-en/home) at the Department of Systems and Information Engineering. My research interests lie in network science, Science of Science, multilayer networks and computational social science.
 
 I earned B.S. in Policy and Planning Science at University of Tsukuba, Japan. When I was an undergrad, I had an opportunity to study at Guadalajara, Mexico, for 1 year as an exchange student. I like playing/watching football :soccer:, surfing :surfer:, and eating Los tacos in private.
 
 
 ### Upcomming events :soon:
-- *Aug. 1-2, 2022*  
-:speech_balloon: I will talk about acknowledgement and science of science at [SOCIOECONOMIC NETWORKS AND NETWORK SCIENCE WORKSHOP 2022](https://sites.google.com/view/waseda-socioecon-networks-2022/socioeconomic-networks-and-network-science-workshop-2022) hosted at Waseda University.
-
-- *Aug. 29-Sep. 2, 2022*  
-I will participate in the workshop: [Reconstructing Network Dynamics from Data: Applications to Neuroscience and Beyond](http://www.ipam.ucla.edu/programs/workshops/reconstructing-network-dynamics-from-data-applications-to-neuroscience-and-beyond/) hosted by IPAM, UCLA
-
 - *Oct. 17-21, 2022*  
-:speech_balloon: My contribution talk at [Conference on COMPELX SYSTEMS 2022](https://www.ccs2022.org/). Also, I have been awarded a student grant:tada:
+:speech_balloon: I will talk at [Conference on COMPELX SYSTEMS 2022](https://www.ccs2022.org/). Also, I have been awarded a student grant:tada:
 
 ### Recent news
+- *Aug. 29-Sep. 2, 2022*  
+I participated in the workshop: [Reconstructing Network Dynamics from Data: Applications to Neuroscience and Beyond](http://www.ipam.ucla.edu/programs/workshops/reconstructing-network-dynamics-from-data-applications-to-neuroscience-and-beyond/) hosted by IPAM, UCLA
+
+- *Aug. 1-2, 2022*  
+:speech_balloon: I talked about acknowledgement and science of science at [SOCIOECONOMIC NETWORKS AND NETWORK SCIENCE WORKSHOP 2022](https://sites.google.com/view/waseda-socioecon-networks-2022/socioeconomic-networks-and-network-science-workshop-2022) hosted at Waseda University.
+
+- *Aug. 1-2, 2022*  
+:tada: The paper "Dataset of identified scholars mentioned in acknowledgement statements" was accepted from scientific data! [Link](https://www.nature.com/articles/s41597-022-01585-y)
+
 - *Jul., 2022*  
 :paperclip: The article "Dataset of identified scholars mentioned in acknowledgement statements" has been accepted by Scientific Data!
 
