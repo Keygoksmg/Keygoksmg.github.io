@@ -2,7 +2,7 @@
 title: CV
 ---
 
-Full version of my CV is available [:paperclip:](CV.pdf)
+Full version of my CV is available [:paperclip:](CV.pdf) (Updated at Sep. 16 2022).
 
 ## Education
 - **University of Tsukuba** (Ibaraki, Japan) 	*April 2021 – Current*  
@@ -21,7 +21,11 @@ University Centre Of Economic And Administrative Sciences
 International Student Exchange program  
 
 ## Publication
--　**Kusumegi Keigo**, and Yukie Sano. 2021. “Citations and Gender Diversity in Reciprocal Acknowledgement Networks.” arXiv [physics.soc-Ph]. arXiv. https://arxiv.org/abs/2104.01729
+
+- <u>Kusumegi, K.</u>, Sano, Y. Dataset of identified scholars mentioned in acknowledgement statements. Sci Data 9, 461 (2022). [link](https://www.nature.com/articles/s41597-022-01585-y)
+
+- <u>Kusumegi K.</u>, Sano, Y. 2021. Citations and Gender Diversity in Reciprocal Acknowledgement Networks. Preprint at arXiv:2104.01729 (2021). [link](https://arxiv.org/abs/2104.01729)
+
 
 
 ## Experience 
@@ -57,5 +61,5 @@ an essential foundation for our future IoT society.
     - Some SQL and NoSQL DB & tools including SQL, Neo4J, docker, etc.
 - Languages
     - Japanese :jp: (native)
-    - English  :us: (proficient)
-    - Spanish :es: (conversation level)
+    - English  :us: (advanced)
+    - Spanish :es: (intermediate)
