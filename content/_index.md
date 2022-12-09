@@ -26,6 +26,7 @@ I participated in the workshop: [Reconstructing Network Dynamics from Data: Appl
 
 <details>
 <summary>... and more </summary>
+
 - *Aug. 1-2, 2022*  
 :tada: The paper "Dataset of identified scholars mentioned in acknowledgement statements" was accepted from scientific data! [Link](https://www.nature.com/articles/s41597-022-01585-y)
 
