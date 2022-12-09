@@ -23,6 +23,10 @@ enableEmoji = true
   name = 'Project'
   url = '/projects'
   weight = 3
+[[menu.main]]
+  name = 'Blog(Japanese)'
+  url = 'https://medium.com/@kusukun7'
+  weight = 4
 
 
 [[menu.social]]
