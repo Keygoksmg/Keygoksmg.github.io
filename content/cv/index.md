@@ -2,7 +2,7 @@
 title: CV
 ---
 
-Full version of my CV is available [:paperclip:](CV.pdf) (Updated at Sep. 16 2022).
+Full version of my CV is available [:paperclip:](CV.pdf) (updated Dec 2022).
 
 ## Education
 - **University of Tsukuba** (Ibaraki, Japan) 	*April 2021 – Current*  
@@ -55,10 +55,11 @@ an essential foundation for our future IoT society.
 
 
 ## Skills 
-- Coding
+- Programming
     - python (data science & development framework like Django/Flask)
     - R
-    - Some SQL and NoSQL DB & tools including SQL, Neo4J, docker, etc.
+    - SQL and NoSQL(Neo4J), docker, GCP, Big Query
+
 - Languages
     - Japanese :jp: (native)
     - English  :us: (advanced)

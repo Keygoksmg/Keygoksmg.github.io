@@ -27,7 +27,7 @@ enableEmoji = true
 
 [[menu.social]]
   name = 'Twitter'
-  url = 'https://twitter.com/Keygoksmg'
+  url = 'https://twitter.com/keigoksmg'
   weight = 1
 [[menu.social]]
   name = 'GitHub'
