@@ -15,6 +15,9 @@ I earned B.S. in Policy and Planning Science at University of Tsukuba, Japan. Wh
 <!-- ### Upcomming events :soon: -->
 
 ### Recent news
+- *Dec, 2022*  
+:tada: I was elected as a member of [QUAD fellows](https://www.quadfellowship.org/quad-fellows)!
+
 - *Oct. 17-21, 2022*  
 :speech_balloon: I will talk at [Conference on COMPELX SYSTEMS 2022](https://www.ccs2022.org/). Also, I have been awarded a student grant:tada:
 
