@@ -24,9 +24,14 @@ enableEmoji = true
   url = '/projects'
   weight = 3
 [[menu.main]]
+  name = 'Wiki'
+  url = '/wiki'
+  weight = 4
+[[menu.main]]
   name = 'Blog(Japanese)'
   url = 'https://medium.com/@kusukun7'
-  weight = 4
+  weight = 5
+
 
 
 [[menu.social]]
