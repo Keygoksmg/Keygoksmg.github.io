@@ -1,0 +1,32 @@
+--- 
+const tags = Astro.props.tags;
+// const tags = [...new Set(allPosts.map((post) => post.frontmatter.tags).flat())];
+
+---
+<div class="tags">
+{tags.map((tag) => (
+    <p class="tag"><a href={`/blogs/${tag}`}>#{tag}</a></p>
+))}
+</div>
+
+<style>
+  a {
+    color: #00539F;
+    text-decoration: none;
+  }
+
+  .tags {
+    display: flex; 
+    flex-wrap: wrap; 
+    margin: 0 auto;  
+  }
+
+  .tag {
+    margin: 0.13em;
+    border: solid 0.3px #a1a1a1;
+    border-radius: .5em;
+    padding: .25em .5em;
+    font-size: 1em;
+    background-color: #F8FCFD;
+  }
+</style>

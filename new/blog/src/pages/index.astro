@@ -1,0 +1,19 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import * as content from '../components/_index.md';
+const pageTitle = "About";
+---
+<BaseLayout pageTitle={pageTitle}>
+  <img src="/images/me.png" alt="me" style="width: 100%;">
+
+  <!-- markdownのコンテンツを表示する -->
+  <Fragment set:html={content.compiledContent()} />
+  
+</BaseLayout>
+
+
+<style lang="scss">
+  img {
+    background-position: center center;
+  }
+</style>
