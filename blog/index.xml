@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on Keigo Kusumegi</title>
-    <link>https://keygoksmg.github.io/</link>
-    <description>Recent content in Homepage on Keigo Kusumegi</description>
+    <title>Blog on Keigo Kusumegi</title>
+    <link>https://keygoksmg.github.io/blog/</link>
+    <description>Recent content in Blog on Keigo Kusumegi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://keygoksmg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://keygoksmg.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PhD Application</title>
       <link>https://keygoksmg.github.io/blog/blog-01/</link>
@@ -36,42 +36,6 @@ PhD受験への戦略 上記は一般的に（奨学金の有無を除いて）�
   奨学金を獲得する
 奨学金の獲得はある種外部から評価であり、つまり、個人の能力が高いことを客観的に示すことができます。また、PhDの学生は多くの場合、大学や学部・教員の研究資金などによって支援されますが、奨学金を持ってきたことは大学・教員にとって金銭的にベネフィットをもたらします。また、実際に奨学金の書類を仕上げていくことでSoPに書く内容が固まっていったり、早めに行動することができるので、たとえ奨学金を獲得できなかったとしても時間的ロスはないと思って取り組んでいました。
   海外での経験・共同研究の経験をつくる</description>
-    </item>
-    
-    <item>
-      <title>CV</title>
-      <link>https://keygoksmg.github.io/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://keygoksmg.github.io/cv/</guid>
-      <description>Full version of my CV is available 📎 (updated Dec 2022).
-Education   University of Tsukuba (Ibaraki, Japan) April 2021 – Current
-Master Programs in Policy and Planning Sciences
-Adviser: Dr Yukie Sano
-Expected graduation dates: 03/2023
-  University of Tsukuba (Ibaraki, Japan) April 2017 – March 2021
-Bachelor of Science, GPA: 3.47/4.3
-College of Policy and Planning Sciences
-Thesis: Academic world from the perspective of acknowledgement networks and reciprocity</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://keygoksmg.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://keygoksmg.github.io/projects/</guid>
-      <description>Acknowledgement network The research in the academic world represents scientists’ human relationships, and it significantly contributes to innovations and acceleration of science. However, there are many contributed intercommunications which are neither citation nor collaboration relationships. Here, we take into account them by applying acknowledgement description, and seek new insight into scientists’ world, establishing and understanding the network based on the acknowledgement relationships. As an outcome of this project, I retrieved and identified acknowledged scholars recorded in open access journals, such as PLO SONE and Scientific Reports.</description>
-    </item>
-    
-    <item>
-      <title>Wiki</title>
-      <link>https://keygoksmg.github.io/wiki/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://keygoksmg.github.io/wiki/</guid>
-      <description>Personal wiki, mostly for technical staffs.
-  BigQuery tips   </description>
     </item>
     
   </channel>
