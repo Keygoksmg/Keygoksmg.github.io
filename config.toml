@@ -30,6 +30,7 @@ enableEmoji = true
 [[menu.main]]
   name = 'Blog(Japanese)'
   url = 'https://medium.com/@kusukun7'
+  # url = '/blog'
   weight = 5
 
 
