@@ -17,5 +17,4 @@ export default defineConfig({
   },
   // this is for deploy to github pages
   site: 'https://keygoksmg.github.io',
-  base: '/astro_test',
 });
