@@ -1,0 +1,32 @@
+---
+const hightligh_text_color = '#27469B';
+---
+<div class="nav-links">
+    <!-- <a href="/publications">Publications / </a> -->
+    <a href="/cv">CV /</a>
+    <a href="/blogs">Blog(日本語) /</a>
+</div>
+
+<style lang='scss' define:vars={{ hightligh_text_color}}>
+.nav-links {
+  font-size: 1.2em;
+    margin-left: 1em;
+    display: flex;
+    // flex-wrap: wrap;
+    // width: auto;
+    background: none;
+    // padding-right: 1rem;
+    a {
+      padding-left: 1rem;
+      color: var(--hightligh_text_color);
+      // font-style: italic;
+      text-decoration: none;
+    }
+    a:hover {
+      color: #000;
+      opacity: 80%;
+      text-decoration: none;
+    }
+}
+
+</style>

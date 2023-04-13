@@ -1,0 +1,33 @@
+---
+import { Icon } from 'astro-icon'
+---
+
+<div class='socials'>
+  <div class='icon'>
+    <a href="https://twitter.com/keigoksmg"><Icon name="ph:twitter-logo-duotone" /> </a>
+  </div>
+  <div class='icon'>
+    <a href="https://www.linkedin.com/in/keigo-kusumegi-b6127a205/"><Icon name="mdi:linkedin" /></a>
+  </div>
+  <div class='icon'>
+    <a href="https://scholar.google.com/citations?user=m8nlOKIAAAAJ&hl=en"><Icon name="simple-icons:googlescholar" /></a>
+  </div>  
+</div>
+
+
+<style>
+  [astro-icon] {
+    width: 1.5rem;
+    margin-bottom: 0;
+    padding-bottom: 0%;
+  }
+  .socials {
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+    .icon {
+      width: 15px;
+      margin-right: 1.5rem;
+    }
+  }
+</style>
