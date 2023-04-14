@@ -8,12 +8,16 @@ import partytown from "@astrojs/partytown";
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [vue(), partytown({
-    // Adds dataLayer.push as a forwarding-event.
-    config: {
-      forward: ["dataLayer.push"]
-    }
-  }), mdx()],
+  integrations: [
+    vue(),
+    partytown({
+      // Adds dataLayer.push as a forwarding-event.
+      config: {
+        forward: ["dataLayer.push"],
+      },
+    }),
+    mdx()
+  ],
   markdown: {
     remarkPlugins: [emoji],
   },
