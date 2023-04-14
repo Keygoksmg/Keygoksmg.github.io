@@ -3,7 +3,6 @@ import partytown from "@astrojs/partytown";
 import vue from "@astrojs/vue";
 import emoji from "remark-emoji";
 import mdx from "@astrojs/mdx";
-import partytown from "@astrojs/partytown";
 
 
 // https://astro.build/config
