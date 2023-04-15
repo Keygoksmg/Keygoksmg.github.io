@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
 title: '海外PhD受験記録'
-pubDate: 2023-04-10
+pubDate: 2023-04-15
 description: 'This is the first post of my new Astro blog.'
 author: 'Keigo Kusumegi'
 image:
