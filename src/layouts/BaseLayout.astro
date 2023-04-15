@@ -4,6 +4,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import '../styles/global.css';
 const _pageTitle = Astro.props.pageTitle;
+const pageTitleOnPage = _pageTitle === 'ブログ' ? '' : _pageTitle;
 const pageTitle =_pageTitle === '' ? 'Keigo Kusumegi' : `${_pageTitle} - Keigo Kusumegi`;
 ---
 <html lang="en">
@@ -28,7 +29,7 @@ const pageTitle =_pageTitle === '' ? 'Keigo Kusumegi' : `${_pageTitle} - Keigo K
       <Header />
       <hr>
       <div class='head'>
-        <h1>{_pageTitle}</h1>
+        <h1>{pageTitleOnPage}</h1>
       </div>
       <slot />
     </div>

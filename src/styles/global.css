@@ -19,7 +19,8 @@ a {
   text-decoration: none;
 }
 a:not(hear):hover {
-  color: #0d0950;
+  color: #b95531;
+  opacity: 50%;
 }
 .ja{
   font-family: "Noto Sans JP", sans-serif;
