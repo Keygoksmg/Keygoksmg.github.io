@@ -1,5 +1,4 @@
 ---
-import '../../styles/blog_list.scss';
 const allPosts = await Astro.glob("./*.md");
 const nonDraftPosts = allPosts.filter((post) => !post.frontmatter.draft);
 const tags = [...new Set(nonDraftPosts.map((post) => post.frontmatter.tags).flat())];
