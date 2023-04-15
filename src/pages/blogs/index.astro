@@ -5,7 +5,7 @@ const nonDraftPosts = allPosts.filter((post) => !post.frontmatter.draft);
 const tags = [...new Set(nonDraftPosts.map((post) => post.frontmatter.tags).flat())];
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Tag from '../../components/Tag.astro';
-const pageTitle = "";
+const pageTitle = "Blog(Ja)";
 const hightligh_text_color = '#27469B';
 ---
 

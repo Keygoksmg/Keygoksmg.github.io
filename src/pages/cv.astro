@@ -1,11 +1,10 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import * as content from '../markdowns/cv.md';
-const pageTitle = "";
+const pageTitle = "CV";
 ---
 <BaseLayout pageTitle={pageTitle}>
   <!-- <img src="/images/me.png" alt="me" style="width: 100%;"> -->
-  <h1>CV</h1>
 
   <!-- markdownのコンテンツを表示する -->
   <Fragment set:html={content.compiledContent()} />

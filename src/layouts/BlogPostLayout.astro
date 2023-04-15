@@ -2,9 +2,9 @@
 import BaseLayout from './BaseLayout.astro';
 const { frontmatter } = Astro.props;
 ---
-<BaseLayout pageTitle={}>
+<BaseLayout pageTitle={frontmatter.title}>
   <div class='blog-head'>
-    <h1>{frontmatter.title}</h1>
+    <!-- <h1>{frontmatter.title}</h1> -->
     <p>{frontmatter.pubDate.slice(0,10)}</p>
   </div>
   
@@ -20,7 +20,7 @@ const { frontmatter } = Astro.props;
 <style lang="scss">
 .blog-head {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
   align-items: end;
   p {
    font-style: italic;

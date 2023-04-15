@@ -3,7 +3,8 @@ import '@fontsource/noto-sans-jp';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import '../styles/global.css';
-const pageTitle = Astro.props.pageTitle;
+const _pageTitle = Astro.props.pageTitle;
+const pageTitle =_pageTitle === '' ? 'Keigo Kusumegi' : `${_pageTitle} - Keigo Kusumegi`;
 ---
 <html lang="en">
   <head>
@@ -19,7 +20,7 @@ const pageTitle = Astro.props.pageTitle;
     <!-- <link rel="icon" type="image/svg+xml" href="/favicon.svg" /> -->
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
-    <title>Keigo Kusumegi</title>
+    <title>{pageTitle}</title>
   </head>
 
   <body>
@@ -27,7 +28,7 @@ const pageTitle = Astro.props.pageTitle;
       <Header />
       <hr>
       <div class='head'>
-        <h1>{pageTitle}</h1>
+        <h1>{_pageTitle}</h1>
       </div>
       <slot />
     </div>
