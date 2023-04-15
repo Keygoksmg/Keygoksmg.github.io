@@ -139,15 +139,15 @@ SoPは大体1-2枚程度の書類で、主に書く内容は\[自分について
 
 # 出願と結果
 
-以下が出願した大学とその結果です。調べられる範囲でNetwork Scienceが強いところ、かつコンタクト取れたところをメインに出願しました。欲を言えば、もう少しBig Nameな大学もちゃんと調べてアプライすればよかったなと思うところです。ただし、PhDは指導教員で選ぶべきだとは思いますし、私個人としては、少ない人数でちゃんと指導を受けつつ伸び伸びやれる環境を望んでおり、結果的に希望するところに合格を頂いたので満足しています。
+以下が出願した大学とその結果です。調べられる範囲でNetwork Scienceが強いところ、かつコンタクト取れたところをメインに出願しました。いろいろな人に話を聞くと一般的にレベルの高いところから低いところまでバランス良く出して、7-10校ほど出す人が多いようです。個人的に欲を言えば、もう少しBig Nameな大学もちゃんと調べてアプライすればよかったなと思うところです。ただし、PhDは指導教員で選ぶべきだとは思いますし、私個人としては、少ない人数でちゃんと指導を受けつつ伸び伸びやれる環境を望んでおり、結果的に希望するところに合格を頂いたので満足しています。
 
-|  大学  |  学部  |  結果  |  Application Deadline  |  インタビュー  |  合格日  | 
+|  大学  |  学部  |  結果  |  Application Deadline  |  インタビュー  |  結果発表日  | 
 | :---- | :---- | :----: | :----: | :----: | :-----: |
 |  Cornell University |  Information Science  |  合格  |  12/1  |  有り  |  2/10  |
-|  Indiana University Bloomington  |  Informatics  |  ◯  |  12/1  |  有り  |  2/15  |
-|  CU Boulder  |  Computer Science  |  ◯  |  12/15  |  無し  |  2/17  |
-|  USC  |  Computer Science  |  -  |  12/1  |  無し  |  通知無し  |
-|  Northeastern University  |  Network Science  |  ✖️  |  12/15  |  無し  |  3/21  |
+|  Indiana University Bloomington  |  Informatics  |  合格  |  12/1  |  有り  |  2/15  |
+|  CU Boulder  |  Computer Science  |  合格  |  12/15  |  無し  |  2/17  |
+|  USC  |  Computer Science  |  不合格  |  12/1  |  無し  |  4/15  |
+|  Northeastern University  |  Network Science  |  不合格  |  12/15  |  無し  |  3/21  |
 |  University of Buffalo  |  Data Science  |  辞退  |  2/1  |  無し  |  -  |
 |  Central European University  |  Network Science  | 補欠  |  2/28  |  有り  |  3/30  |
 
