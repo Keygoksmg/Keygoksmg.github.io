@@ -26,6 +26,6 @@ a:not(hear):hover {
   font-family: "Noto Sans JP", sans-serif;
 }
 /* To check the outline of the element, uncomment the following code. */
-/* * {
+* {
   outline: 2px solid blue;
-} */
+}

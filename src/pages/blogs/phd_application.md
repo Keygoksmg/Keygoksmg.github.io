@@ -10,7 +10,17 @@ image:
 tags: ["PhD", "Application", "海外留学"]
 draft: false
 lang: 'ja'
+# import rawStylesCSS from '../../styles/md_table.css?raw';
 ---
+<style>
+@media screen and (max-width: 700px) {
+.responsive-table{
+  /* display: inline-block; */
+  min-width: 100%;
+  overflow-x: scroll;
+}
+}
+</style>
 
 ## 内容
 2022-2023年にアメリカを主に海外PhDにアプライしました。今回は海外PhD受験を一通り終えた段階で、海外PhD受験に至った経緯、準備、結果について書いていこうと思います。先人たちの情報がゴロゴロ転がっていますが、分野や年によって情報も異なってくるので、2022-2023年の、特にCS/Information Science分野について情報共有できれば良いなと思います。
@@ -141,6 +151,8 @@ SoPは大体1-2枚程度の書類で、主に書く内容は\[自分について
 
 以下が出願した大学とその結果です。調べられる範囲でNetwork Scienceが強いところ、かつコンタクト取れたところをメインに出願しました。いろいろな人に話を聞くと一般的にレベルの高いところから低いところまでバランス良く出して、7-10校ほど出す人が多いようです。個人的に欲を言えば、もう少しBig Nameな大学もちゃんと調べてアプライすればよかったなと思うところです。ただし、PhDは指導教員で選ぶべきだとは思いますし、私個人としては、少ない人数でちゃんと指導を受けつつ伸び伸びやれる環境を望んでおり、結果的に希望するところに合格を頂いたので満足しています。
 
+<div class='responsive-table'>
+
 |  大学  |  学部  |  結果  |  Application Deadline  |  インタビュー  |  結果発表日  | 
 | :---- | :---- | :----: | :----: | :----: | :-----: |
 |  Cornell University |  Information Science  |  合格  |  12/1  |  有り  |  2/10  |
@@ -151,6 +163,7 @@ SoPは大体1-2枚程度の書類で、主に書く内容は\[自分について
 |  University of Buffalo  |  Data Science  |  辞退  |  2/1  |  無し  |  -  |
 |  Central European University  |  Network Science  | 補欠  |  2/28  |  有り  |  3/30  |
 
+</div>
 
 # 進学先選び
 いざ合格をいただくとホッと安心します。2月頭からは毎朝メールをチェックするたびに心拍数上がっていたので、最初に"Congratulations!"と通知を見たときはすごく嬉しかったです。翌日以降はよく寝れた気もします。
