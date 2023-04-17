@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPostLayout.astro
 title: '海外大学院受験(PhD)記録'
 pubDate: 2023-04-15
-description: '海外大学院受験/PhD進学の準備や忘備録'
+description: '海外大学院受験/PhD進学の準備記録や忘備録'
 author: 'Keigo Kusumegi'
 image:
     url: '/images/blogs/phd_application/flight.JPG' 

@@ -9,7 +9,7 @@ const _pageTitle = Astro.props.pageTitle;
 const pageTitleOnPage = _pageTitle === 'ブログ' ? '' : _pageTitle;
 const pageTitle =_pageTitle === '' ? 'Keigo Kusumegi' : `${_pageTitle} - Keigo Kusumegi`;
 // ogp image
-const ogpImage = Astro.props.ogpImage;
+const ogpImage = Astro.props.ogpImage || '/images/ogp.jpg';
 const ogpDescription = Astro.props.ogpDescription;
 ---
 <html lang="en">
