@@ -9,6 +9,7 @@ const pageTitle =_pageTitle === '' ? 'Keigo Kusumegi' : `${_pageTitle} - Keigo K
 // ogp image
 const canonicalURL = new URL(Astro.url.pathname, 'https://keygoksmg.github.io/');
 const ogpImageURL = new URL('/images/me_mt.jpg', canonicalURL);
+const ogpDescription = "Keigo Kusumegi's Web Site";
 ---
 <html lang="en">
   <head prefix="og: https://ogp.me/ns#">
@@ -25,9 +26,9 @@ const ogpImageURL = new URL('/images/me_mt.jpg', canonicalURL);
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
     <!-- ogp setting -->
-    <meta property="og:title" content={pageTitle} />
     <meta property="og:image" content={ogpImageURL} />
     <meta property="og:url" content={canonicalURL} />
+    <meta property="og:description" content={ogpDescription} />
     <title>{pageTitle}</title>
   </head>
 
