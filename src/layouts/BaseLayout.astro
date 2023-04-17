@@ -6,9 +6,12 @@ import '../styles/global.css';
 const _pageTitle = Astro.props.pageTitle;
 const pageTitleOnPage = _pageTitle === 'ブログ' ? '' : _pageTitle;
 const pageTitle =_pageTitle === '' ? 'Keigo Kusumegi' : `${_pageTitle} - Keigo Kusumegi`;
+// ogp image
+const canonicalURL = new URL(Astro.url.pathname, 'https://keygoksmg.github.io/');
+const ogpImageURL = new URL('/images/me_mt.png', canonicalURL);
 ---
 <html lang="en">
-  <head>
+  <head prefix="og: https://ogp.me/ns#">
     <!-- Google Analytics 4 -->
     <script type='text/partytown' async src="https://www.googletagmanager.com/gtag/js?id=G-5BLWZ3MF9C"></script>
     <script type='text/partytown'>
@@ -21,6 +24,10 @@ const pageTitle =_pageTitle === '' ? 'Keigo Kusumegi' : `${_pageTitle} - Keigo K
     <!-- <link rel="icon" type="image/svg+xml" href="/favicon.svg" /> -->
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
+    <!-- ogp setting -->
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:image" content={ogpImageURL} />
+    <meta property="og:url" content={canonicalURL} />
     <title>{pageTitle}</title>
   </head>
 
