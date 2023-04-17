@@ -1,5 +1,6 @@
 ---
 import '@fontsource/noto-sans-jp';
+import OGP from '../components/OGP.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import '../styles/global.css';
@@ -8,9 +9,8 @@ const _pageTitle = Astro.props.pageTitle;
 const pageTitleOnPage = _pageTitle === 'ブログ' ? '' : _pageTitle;
 const pageTitle =_pageTitle === '' ? 'Keigo Kusumegi' : `${_pageTitle} - Keigo Kusumegi`;
 // ogp image
-const canonicalURL = new URL(Astro.url.pathname, 'https://keygoksmg.github.io/');
-const ogpImageURL = new URL('/images/me_mt.jpg', canonicalURL);
-const ogpDescription = "";
+const ogpImage = Astro.props.ogpImage;
+const ogpDescription = Astro.props.ogpDescription;
 ---
 <html lang="en">
   <head prefix="og: https://ogp.me/ns#">
@@ -26,14 +26,11 @@ const ogpDescription = "";
     <!-- <link rel="icon" type="image/svg+xml" href="/favicon.svg" /> -->
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
-    <!-- ogp setting -->
-    <meta property="og:title" content={pageTitle} />
-    <meta property="og:type" content="website" />
-    <meta property="og:image" content={ogpImageURL} />
-    <meta property="og:url" content={canonicalURL} />
-    <meta property="og:description" content={ogpDescription} />
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@keigoksmg" />
+    <OGP 
+    ogpTitle={pageTitle}
+    ogpImage={ogpImage}
+    ogpDescription={ogpDescription}
+    />
     <title>{pageTitle}</title>
   </head>
 

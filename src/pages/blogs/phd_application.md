@@ -1,12 +1,12 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
-title: '海外PhD受験記録'
+title: '海外大学院受験(PhD)記録'
 pubDate: 2023-04-15
-description: 'This is the first post of my new Astro blog.'
+description: '海外大学院受験/PhD進学の準備や忘備録'
 author: 'Keigo Kusumegi'
 image:
     url: '/images/blogs/phd_application/flight.JPG' 
-    alt: 'Image image.'
+    alt: 'Flight image.'
 tags: ["PhD", "Application", "海外留学"]
 draft: false
 lang: 'ja'

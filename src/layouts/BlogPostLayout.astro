@@ -2,7 +2,11 @@
 import BaseLayout from './BaseLayout.astro';
 const { frontmatter } = Astro.props;
 ---
-<BaseLayout pageTitle={frontmatter.title}>
+<BaseLayout 
+pageTitle={frontmatter.title}
+ogpImage={frontmatter.image.url}
+ogpDescription={frontmatter.description}
+>
   <div class='blog-head'>
     <!-- <h1>{frontmatter.title}</h1> -->
     <p>{frontmatter.pubDate.slice(0,10)}</p>

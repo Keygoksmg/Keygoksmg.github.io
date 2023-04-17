@@ -1,0 +1,20 @@
+---
+const ogpTitle = Astro.props.ogpTitle;
+const ogpImage = Astro.props.ogpImage || '/assets/images/ogp.png';
+const ogpDescription = Astro.props.ogpDescription || 'Keigo Kusumegi is a PhD Student.';
+const canonicalURL = new URL(Astro.url.pathname, 'https://keygoksmg.github.io/');
+const ogpImageURL = new URL(ogpImage, canonicalURL);
+// if Astro.url.pathname contains 'blog' then ogpType is 'article'
+const ogpType = Astro.url.pathname.includes('blog') ? 'article' : 'website';
+---
+
+<!-- ogpp setting -->
+<meta property="og:title" content={ogpTitle} />
+<meta property="og:type" content={ogpType} />
+<meta property="og:url" content={canonicalURL} />
+<meta property="og:image" content={ogpImageURL} />
+<meta property="og:description" content={ogpDescription} />
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@keigoksmg" />
