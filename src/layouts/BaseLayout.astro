@@ -3,6 +3,7 @@ import '@fontsource/noto-sans-jp';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import '../styles/global.css';
+// page title
 const _pageTitle = Astro.props.pageTitle;
 const pageTitleOnPage = _pageTitle === 'ブログ' ? '' : _pageTitle;
 const pageTitle =_pageTitle === '' ? 'Keigo Kusumegi' : `${_pageTitle} - Keigo Kusumegi`;
@@ -29,6 +30,8 @@ const ogpDescription = "Keigo Kusumegi's Web Site";
     <meta property="og:image" content={ogpImageURL} />
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:description" content={ogpDescription} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@keigoksmg" />
     <title>{pageTitle}</title>
   </head>
 
