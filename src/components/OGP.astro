@@ -1,6 +1,6 @@
 ---
 const ogpTitle = Astro.props.ogpTitle;
-const ogpImage = Astro.props.ogpImage || '/assets/images/ogp.png';
+const ogpImage = Astro.props.ogpImage || '/assets/images/ogp.jpg';
 const ogpDescription = Astro.props.ogpDescription || 'Keigo Kusumegi is a PhD Student.';
 const canonicalURL = new URL(Astro.url.pathname, 'https://keygoksmg.github.io/');
 const ogpImageURL = new URL(ogpImage, canonicalURL);
