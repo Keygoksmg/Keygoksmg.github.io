@@ -12,13 +12,16 @@ draft: true
 ---
 
 ## News
+<details>
+<summary> 2023 </summary>
+
 - *Mar, 2023*  
-:speech_balloon: I'll attend NetSci2023 in Vienna! See you there!
+:speech_balloon: attended NetSci2023 in Vienna! See you there!
 
 - *Mar, 2023*  
 :tada: Earned M.S. in University of Tsukuba
     - awarded President's Commendation and Tsukuba Scholarship 
-
+</details>
 
 <details>
 <summary> 2022 </summary>
