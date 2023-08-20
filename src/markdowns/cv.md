@@ -3,11 +3,11 @@ title: CV
 ---
 
 <!-- **Curriculumn Vitae**: [cv.pdf](/cv.pdf) -->
-Curriculum Vitae (update: March 2023) [here](/cv.pdf)
+Curriculum Vitae (update: August 2023) [here](/cv.pdf)
 
 ## Education
 ### Current
-University of Tsukuba (\~2023 Fall) / Cornell Information Science (2023 Fall\~)
+Cornell Information Science
 
 ### Previous
 MA, Policy and Planning Sciences, University of Tsukuba <br/>
