@@ -8,7 +8,7 @@ image:
     url: '/images/blogs/phd_application/flight.JPG' 
     alt: 'Flight image.'
 tags: ["IELTS", "TOEFL", "英語", "海外留学"]
-draft: false
+draft: true
 lang: 'ja'
 # import rawStylesCSS from '../../styles/md_table.css?raw';
 ---
