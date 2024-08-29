@@ -3,7 +3,7 @@ title: CV
 ---
 
 <!-- **Curriculumn Vitae**: [cv.pdf](/cv.pdf) -->
-Curriculum Vitae (update: August 2023) [here](/cv.pdf)
+Curriculum Vitae (update: August 2024) [here](/cv.pdf)
 
 ## Education
 ### Current

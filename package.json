@@ -11,17 +11,20 @@
   },
   "dependencies": {
     "@astrojs/mdx": "^0.18.2",
-    "@astrojs/rss": "^2.3.2",
-    "@astrojs/vue": "^2.1.0",
+    "@astrojs/preact": "^3.0.1",
+    "@astrojs/rss": "^4.0.1",
+    "@astrojs/vue": "^4.0.4",
     "@fontsource/noto-sans-jp": "^4.5.12",
     "@fontsource/otomanopee-one": "^4.5.9",
-    "astro": "^2.1.9",
+    "astro": "^4.0.6",
     "astro-icon": "^0.8.0",
+    "node": "^21.2.0",
     "remark-emoji": "^3.1.1",
     "vue": "^3.2.47"
   },
   "devDependencies": {
     "@astrojs/partytown": "^1.2.0",
-    "sass": "^1.60.0"
+    "sass": "^1.60.0",
+    "typescript": "^5.3.3"
   }
 }
