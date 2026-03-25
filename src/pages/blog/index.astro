@@ -1,0 +1,85 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+const postFiles = import.meta.glob<{
+  frontmatter: { title: string; description: string; pubDate: string };
+}>('../../content/blog/*.mdx', { eager: true });
+
+const posts = Object.entries(postFiles)
+  .map(([path, mod]) => ({
+    slug: path.split('/').pop()!.replace('.mdx', ''),
+    ...mod.frontmatter,
+    pubDate: new Date(mod.frontmatter.pubDate),
+  }))
+  .sort((a, b) => b.pubDate.valueOf() - a.pubDate.valueOf());
+---
+
+<Layout title="Blog">
+  <section class="blog-list">
+    <h1>Blog</h1>
+    {posts.length === 0 && <p class="empty">No posts yet.</p>}
+    <ul>
+      {posts.map((post) => (
+        <li>
+          <a href={`/blog/${post.slug}`}>
+            <time datetime={post.pubDate.toISOString()}>
+              {post.pubDate.toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric',
+              })}
+            </time>
+            <h2>{post.title}</h2>
+            <p>{post.description}</p>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+</Layout>
+
+<style>
+  .blog-list h1 {
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    margin-bottom: var(--space-lg);
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  li {
+    border-bottom: 1px solid #e5e7eb;
+  }
+  li:last-child {
+    border-bottom: none;
+  }
+  a {
+    display: block;
+    padding: var(--space-md) 0;
+    text-decoration: none;
+    transition: opacity 0.2s ease;
+  }
+  a:hover {
+    opacity: 0.7;
+  }
+  time {
+    color: var(--text-secondary);
+    font-size: 0.85rem;
+  }
+  h2 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin: var(--space-xs) 0;
+  }
+  p {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+    margin: 0;
+    line-height: 1.5;
+  }
+  .empty {
+    color: var(--text-secondary);
+  }
+</style>

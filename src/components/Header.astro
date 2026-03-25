@@ -1,45 +1,65 @@
 ---
-// const hightligh_text_color = '#017e92';
+const pathname = Astro.url.pathname;
 ---
 
-<div id="header">
-    <h2><a href="/">Keigo Kusumegi</a></h2>
+<header id="header">
+  <div class="header-inner">
+    <a href="/" class="site-name">Keigo Kusumegi</a>
     <nav>
-      <div class="nav-links">
-          <!-- <a href="/">Home</a>
-          <a href="/cv">Publication</a> -->
-      </div>
+      <a href="/" class:list={[{ active: pathname === '/' }]}>Home</a>
+      <a href="/blog" class:list={[{ active: pathname.startsWith('/blog') }]}>Blog</a>
     </nav>
-</div>
+  </div>
+</header>
 
 <style>
-    #header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      background: none;
-      color: var(--text-color);
-      border-bottom: 1px solid #ccc;
-      box-shadow: 0 2px 1px -1px rgb(203, 201, 201);
-      height: 50px;
-      margin-bottom: 40px;
+  #header {
+    width: 100%;
+    border-bottom: 1px solid var(--border-light);
   }
-  h2 {
-      color: var(--text-color);
-      /* margin-left: 1em; */
+  .header-inner {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 var(--space-xl);
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 56px;
   }
-  a {
-      color: var(--text-color);
-      text-decoration: none;
-      /* font-size: 1em; */
+  .site-name {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    text-decoration: none;
+    letter-spacing: -0.01em;
   }
-  /* when hover over a, show under line */
-  a:hover {
-      /* color: #000; */
-      opacity: 50%;
-      text-decoration: none;
-      /* underline */
-      border-bottom: 1px solid #000;
+  .site-name:hover {
+    opacity: 0.7;
   }
-    
+  nav {
+    display: flex;
+    gap: 1.5rem;
+  }
+  nav a {
+    color: var(--text-secondary);
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 500;
+    padding: 0.25rem 0;
+    border-bottom: 2px solid transparent;
+    transition: color 0.2s ease, border-color 0.2s ease;
+  }
+  nav a:hover {
+    color: var(--text-primary);
+  }
+  nav a.active {
+    color: var(--text-primary);
+    border-bottom-color: var(--text-primary);
+  }
+  @media (max-width: 768px) {
+    .header-inner {
+      padding: 0 var(--space-lg);
+    }
+  }
 </style>
