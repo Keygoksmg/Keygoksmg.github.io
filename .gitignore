@@ -1,1 +1,16 @@
 .superpowers/
+
+# build output
+dist/
+
+# dependencies
+node_modules/
+
+# generated
+.astro/
+
+# local screenshots / tooling
+.playwright-mcp/
+*.png
+!src/assets/**
+!public/**
