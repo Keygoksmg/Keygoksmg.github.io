@@ -28,6 +28,35 @@
         ]
     },
     {
+        "title": "A robust association between LLM use and scientific productivity: Assessing stopping-time selection",
+        "year": "2026",
+        "venue": "arXiv",
+        "link": "https://arxiv.org/abs/2607.28968",
+        "authors": [
+            {
+                "name": "Keigo Kusumegi",
+                "is_me": true,
+                "is_equal_contributor": true
+            },
+            {
+                "name": "Xinyu Yang",
+                "is_equal_contributor": true
+            },
+            {
+                "name": "Paul Ginsparg"
+            },
+            {
+                "name": "Mathijs de Vaan"
+            },
+            {
+                "name": "Toby Stuart"
+            },
+            {
+                "name": "Yian Yin"
+            }
+        ]
+    },
+    {
         "title": "The Specialization of interdisciplinary innovators in science and technology",
         "venue": "(Working paper)",
         "authors": [
@@ -37,6 +66,24 @@
             },
             {
                 "name": "Yian Yin"
+            }
+        ]
+    },
+    {
+        "title": "Dissecting the Gender Divide: Authorship and Acknowledgment in Scientific Publications",
+        "year": "2026",
+        "venue": "Scientometrics",
+        "link": "https://link.springer.com/article/10.1007/s11192-026-05712-z",
+        "authors": [
+            {
+                "name": "Keigo Kusumegi",
+                "is_me": true
+            },
+            {
+                "name": "Daniel E. Acuña"
+            },
+            {
+                "name": "Yukie Sano"
             }
         ]
     },
