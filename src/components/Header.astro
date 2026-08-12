@@ -7,7 +7,10 @@ const pathname = Astro.url.pathname;
     <a href="/" class="site-name">Keigo Kusumegi</a>
     <nav>
       <a href="/" class:list={[{ active: pathname === '/' }]}>Home</a>
+      <!-- Blog hidden until first real post is ready
       <a href="/blog" class:list={[{ active: pathname.startsWith('/blog') }]}>Blog</a>
+      -->
+
     </nav>
   </div>
 </header>
